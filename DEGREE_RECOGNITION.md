@@ -2,6 +2,8 @@
 
 Prepared and sources checked 11 October 2026. Start from Pakistan before the planned move to Cork in late January 2027. Recheck fees and requirements before submitting. This tutorial prepares applications; it is not an individual recognition decision.
 
+For a detailed professional application walkthrough and examples of using comparability statements, see [Teaching Council registration and QQI statements](TEACHING_COUNCIL_REGISTRATION.md).
+
 ## 1. Understand what you are applying for
 
 There is no single Irish procedure that registers all three degrees and converts them into Irish qualifications. Use two processes:
@@ -23,17 +25,17 @@ Fill this in using the certificates and transcripts, not memory. Unknown facts s
 | Detail | BSc | M.Phil. | B.Ed. |
 | --- | --- | --- | --- |
 | Exact certificate title | To confirm | To confirm | To confirm |
-| Awarding university/body | To confirm | University of Sargodha | Exact open university to confirm |
+| Awarding university/body | To confirm | University of Sargodha | Allama Iqbal Open University (family report; verify certificate) |
 | Teaching college/campus, if different | To confirm | To confirm | To confirm |
-| Start and completion dates | To confirm | Completed 2012 | To confirm |
-| Normal programme duration | To confirm | To confirm | To confirm |
+| Start and completion dates | To confirm | Completed 2012 | 2013–2014, family report |
+| Normal programme duration | To confirm | To confirm | One year, family report |
 | Qualification required for admission | To confirm | To confirm | To confirm |
 | Full-time, part-time or distance delivery | To confirm | To confirm | To confirm |
 | Transcript and certificate available? | Yes/no | Yes/no | Yes/no |
 | Thesis/research component | To confirm | Title and component to confirm | To confirm |
-| Instruction and examination language | To confirm | To confirm | To confirm |
+| Instruction and examination language | To confirm | To confirm | Urdu teaching reported; verify examination language |
 
-Also list any qualification between the BSc and M.Phil., including an MSc if she completed one. Do not invent an MSc. The admission sequence can help distinguish similarly named Pakistani awards. The B.Ed. university must not be assumed to be Allama Iqbal Open University without checking the certificate.
+Also list any qualification between the BSc and M.Phil., including an MSc if she completed one. Do not invent an MSc. The admission sequence can help distinguish similarly named Pakistani awards. The family identifies the B.Ed. university as AIOU; verify the exact award against the certificate.
 
 ## 3. Days 1 to 7: build the document pack
 
@@ -79,7 +81,7 @@ The [official database guide](https://qsdocs.qqi.ie//Downloads/User%20Guide%20fo
 
 **M.Phil.:** QQI currently lists [Pakistan Master of Philosophy, entry 2294](https://qsearch.qqi.ie/WebPart/RecognitionDetails?recognitionCode=2294) as a two-year research programme comparable to a **Masters Degree, NFQ Level 9**. Its entry profile refers to four years of prior higher education in a related area, through a four-year bachelor or a master's following a bachelor. Check Humera's duration and admission sequence before relying on it. The statement is a useful candidate, not confirmation about her individual 2012 award.
 
-**B.Ed.:** look for the exact award variant, duration and entry route. An academic comparison does not establish professional teaching eligibility. If no matching entry exists, use A3. The Teaching Council still assesses the programme and placement.
+**B.Ed.:** [QQI entry 616](https://qsearch.qqi.ie/WebPart/RecognitionDetails?recognitionCode=616) specifically describes the one-year Pakistani B.Ed. and compares it with a Higher Certificate at NFQ Level 6. It is the closer reference for planning, subject to checking the exact award/admission profile. The broader entry 152 also mentions a one-year B.Ed. but must not be used to assert Level 8 for her award. Ask QQI to clarify the overlap if needed. Look for the exact award variant, duration and entry route. An academic comparison does not establish professional teaching eligibility. If no matching entry exists, use A3. The Teaching Council still assesses the programme and placement.
 
 ### A3. If there is no clear match, complete the advice form
 
@@ -128,7 +130,7 @@ Include relevant BSc and M.Phil. evidence and let the Council determine which st
 
 ### B3. Prepare language, character and vetting evidence
 
-**English:** proficiency is valuable, but formal evidence is required. First ask the BSc or B.Ed. university for a letter confirming both instruction and examination through English, if true. This is an accepted evidence route for a relevant qualification from a country where English is not the vernacular. If unavailable, check the alternatives before booking a test; the current list includes IELTS Academic at 7.0 or above and Cambridge C1 Advanced Grade C or higher, subject to the Council's conditions. [English requirements](https://www.teachingcouncil.ie/i-am-applying-to-register/english-language-requirement/).
+**English:** proficiency is valuable, but formal evidence is required. Her B.Ed. was reportedly taught through Urdu. First ask the BSc university for a letter confirming both instruction and examination through English, if true. This is an accepted evidence route for a relevant qualification from a country where English is not the vernacular. If unavailable, check the alternatives before booking a test; the current list includes IELTS Academic at 7.0 or above and Cambridge C1 Advanced Grade C or higher, subject to the Council's conditions. [English requirements](https://www.teachingcouncil.ie/i-am-applying-to-register/english-language-requirement/).
 
 **Character:** follow the portal's reference and declarations instructions. If no suitable recent referee exists because of a career gap, request guidance rather than inventing a recent relationship. Keep employment history separate from supervised B.Ed. placement. [Application guidelines](https://www.teachingcouncil.ie/assets/uploads/2024/01/Teaching-Council-Post-Primary-Guidelines-1.pdf).
 
