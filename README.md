@@ -9,6 +9,8 @@ Prepared 11 October 2026. Target arrival: late January 2027. This is a practical
 3. Record applications and decisions in [the tracker](TRACKER.md).
 4. Follow [the degree recognition tutorial](DEGREE_RECOGNITION.md) for the BSc, M.Phil. and B.Ed., including the separate Teaching Council process.
 
+5. Follow [Teaching Council registration and using QQI statements](TEACHING_COUNCIL_REGISTRATION.md) for the detailed professional application process and use of academic comparability evidence.
+
 **Recommended strategy:** apply for suitable part-time administration and school office roles while pursuing qualification recognition in parallel. Explore SNA work after discussing its care duties. Keep biology teaching and special education teaching as conditional routes until the Teaching Council assesses the qualifications.
 
 The priorities below are recommendations based on Humera's background and constraints, not statistical predictions about her chances.
@@ -17,7 +19,7 @@ The priorities below are recommendations based on Humera's background and constr
 
 | Topic | Information supplied by the family |
 | --- | --- |
-| Qualifications | BSc honours in Zoology; M.Phil. in Zoology, University of Sargodha, 2012; B.Ed. from an open university in Pakistan |
+| Qualifications | BSc honours in Zoology; M.Phil. in Zoology, University of Sargodha, 2012; one-year B.Ed. from Allama Iqbal Open University (AIOU), 2013–2014, taught through Urdu |
 | Experience | Approximately 3 to 4 years in school and 2 to 3 years in college; biology for high school pupils and F.Sc. students |
 | Skills | Proficient spoken and written English; comfortable with Word, email and online meetings; basic Excel |
 | Location | Near UCC, Cork; public transport; preferred commute up to 45 minutes each way |
@@ -29,7 +31,7 @@ The priorities below are recommendations based on Humera's background and constr
 | Immigration | Wife of a prospective UCC lecturer/researcher using a Hosting Agreement; dependent permission expected, not yet granted |
 | Dates | Husband's UCC start date: 11 January 2027; family's stated arrival: late January 2027. Keep both dates separate |
 
-Still to establish: exact BSc/B.Ed. awarding institutions, award titles, dates and programme lengths; B.Ed. school placement; teaching employment dates and last working date; formal teacher status/induction; M.Phil. thesis and research methods; any publications; references; home address; precise job availability date. Do not assume the open university is Allama Iqbal Open University until the certificate confirms it. Do not infer a career gap from the 2012 graduation date.
+Still to establish: exact BSc institution, award titles and remaining dates/durations; official B.Ed. practical assessment or exemption evidence; teaching employment dates and last working date; formal teacher status/induction; M.Phil. thesis and research methods; any publications; references; home address; precise job availability date. The family identifies the B.Ed. institution as AIOU; check the exact award against its certificate. Do not infer a career gap from the 2012 graduation date.
 
 Exclude manual labour, cleaning, retail stock work, warehouse work and physically demanding laboratory/fieldwork. SNA duties are a specific exception the family has accepted for consideration, not permission to include general physical jobs.
 
